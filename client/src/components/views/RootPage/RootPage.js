@@ -9,6 +9,7 @@ function RootPage() {
     <>
       <h1>Root page</h1>
       <h2>branch test</h2>
+      <h3>push test</h3>
       {/* <div>{data}</div> */}
     </>
   );
